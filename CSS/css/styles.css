@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: monospace;
+    line-height: 2;
+}
+h1 {
+    margin-top: 50px;
+    font-size: 375%;
+    color: #E5E5CB;
+}
+h2{
+    color:#1A120B;
+    font-size:300%;
+    font-weight: normal;
+}
+h3{
+    font-size:150%;
+    color: #3C2A21;
+}
+hr{
+    border: dotted #E5E5CB 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+p{
+    font-size:110%;
+}
+.pro{
+    text-decoration: underline;
+}
+.intro{
+    width:40%;
+    margin: auto;
+}
+.csulb{
+    text-decoration: none;
+    color:black;
+}
+.csulb:hover{
+    color: #D5CEA3;
+}
+.top {
+    background-color: #1A120B;
+    position: relative;
+    padding-top: 50px;
+}
+.dark{
+    color: #1A120B;
+}
+.mid{
+    margin: 100px 0;
+}
+.bot{
+    padding-top: 25px;
+    background-color: #1A120B;
+    padding-bottom: 15px;
+}
+.contact-msg{
+    width: 40%;
+    margin: 40px auto 40px;
+}
+.btn {
+    background: #3C2A21;
+    border-radius: 8px;
+    font-family: monospace;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+.btn:hover {
+    background: #D5CEA3;
+    text-decoration: none;
+  }
+.footer-link{
+    font-size: 110%;
+    color: #E5E5CB;
+    margin: 10px 10px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    background: #3C2A21;
+    text-decoration: none;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+.cat {
+    height: 30%;
+    width: 30%;
+    position: relative;
+}
+img{
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+}
+.pfp{
+    width: 13%;
+    height: 13%;
+}
+.code-img{
+    float: left;
+    margin-right: 30px;
+}
+.design-img{
+    float: right;
+    margin-left: 25px;
+}

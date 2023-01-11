@@ -2,9 +2,9 @@
 Documentation of web development journey
 
 ## Basic HTML and CSS
-![image](https://user-images.githubusercontent.com/115589219/211741460-41bcebd3-1535-47cf-a6ab-63a9e5b04f2f.png)
-![image](https://user-images.githubusercontent.com/115589219/211740900-2274d6fd-04e5-4a29-af87-7ba105e434da.png)
-![image](https://user-images.githubusercontent.com/115589219/211741495-6ead62b0-7006-4815-a42a-4802d7764d85.png)
+![image](https://user-images.githubusercontent.com/115589219/211742062-ae0691f0-c497-4808-ab9a-2e8cbd74b40e.png)
+![image](https://user-images.githubusercontent.com/115589219/211742109-162ab8de-0a74-4237-89ea-e746738e7109.png)
+![image](https://user-images.githubusercontent.com/115589219/211742142-1f99dfcf-3915-47bb-a220-e0c4d9a49612.png)
 
 ## Advanced CSS 
 ![image](https://user-images.githubusercontent.com/115589219/211740198-ea53ae70-44b0-4692-8eed-d5ad8298906b.png)

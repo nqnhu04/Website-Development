@@ -2,9 +2,9 @@
 Documentation of web development journey
 
 ## Just HTML
-![image](https://user-images.githubusercontent.com/115589219/211739981-e13c94ce-56f5-432a-af10-752bf2a6adc0.png)
+![image](https://user-images.githubusercontent.com/115589219/211741460-41bcebd3-1535-47cf-a6ab-63a9e5b04f2f.png)
 ![image](https://user-images.githubusercontent.com/115589219/211740900-2274d6fd-04e5-4a29-af87-7ba105e434da.png)
-![image](https://user-images.githubusercontent.com/115589219/211740935-7cd3538a-d53d-4e04-8388-6a1bb3a4326b.png)
+![image](https://user-images.githubusercontent.com/115589219/211741495-6ead62b0-7006-4815-a42a-4802d7764d85.png)
 
 ## Adding CSS 
 ![image](https://user-images.githubusercontent.com/115589219/211740198-ea53ae70-44b0-4692-8eed-d5ad8298906b.png)
